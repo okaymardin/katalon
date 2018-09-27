@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+suite,Firefox 62.0,,2018-09-25 01:25:16,2018-09-25 01:25:31,"15,828s",PASSED
+,,,,,,
+Test Cases/test1,Firefox 62.0,,2018-09-25 01:25:16,2018-09-25 01:25:31,"15,370s",PASSED
+openBrowser,Firefox 62.0,,2018-09-25 01:25:17,2018-09-25 01:25:21,"4,712s",PASSED
+navigateToUrl,Firefox 62.0,,2018-09-25 01:25:21,2018-09-25 01:25:24,"2,535s",PASSED
+setText,Firefox 62.0,,2018-09-25 01:25:24,2018-09-25 01:25:24,"0,321s",PASSED
+setText,Firefox 62.0,,2018-09-25 01:25:24,2018-09-25 01:25:24,"0,260s",PASSED
+click,Firefox 62.0,,2018-09-25 01:25:24,2018-09-25 01:25:25,"0,350s",PASSED
+waitForJQueryLoad,Firefox 62.0,,2018-09-25 01:25:25,2018-09-25 01:25:25,"0,083s",PASSED
+click,Firefox 62.0,,2018-09-25 01:25:25,2018-09-25 01:25:28,"3,437s",PASSED
+click,Firefox 62.0,,2018-09-25 01:25:28,2018-09-25 01:25:29,"0,409s",PASSED
+click,Firefox 62.0,,2018-09-25 01:25:29,2018-09-25 01:25:29,"0,354s",PASSED
+waitForJQueryLoad,Firefox 62.0,,2018-09-25 01:25:29,2018-09-25 01:25:29,"0,020s",PASSED
+Statement - If (!(com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/Page_Foriba Bulut Portal/span_1 Ay)))),Firefox 62.0,,2018-09-25 01:25:29,2018-09-25 01:25:30,"0,680s",PASSED
+click,Firefox 62.0,,2018-09-25 01:25:30,2018-09-25 01:25:30,"0,482s",PASSED
+click,Firefox 62.0,,2018-09-25 01:25:30,2018-09-25 01:25:31,"0,354s",PASSED
+click,Firefox 62.0,,2018-09-25 01:25:31,2018-09-25 01:25:31,"0,324s",PASSED
+verifyElementText,Firefox 62.0,,2018-09-25 01:25:31,2018-09-25 01:25:31,"0,314s",PASSED
+closeBrowser,Firefox 62.0,,2018-09-25 01:25:31,2018-09-25 01:25:31,"0,255s",PASSED

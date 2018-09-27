@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pop-up</name>
+   <tag></tag>
+   <elementGuidId>0704f85f-87b5-4eb3-a3fe-f327a69c5a40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>/html/body/ngb-modal-window/div/div/uc-popup-choice/div/div[3]/button[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/ngb-modal-window/div/div/uc-popup-choice/div/div[3]/button[2]
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>/html/body/ngb-modal-window/div/div/uc-popup-choice/div/div[3]/button[2]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <value>/html/body/ngb-modal-window/div/div/uc-popup-choice/div/div[3]/button[2]
+</value>
+   </webElementXpaths>
+</WebElementEntity>

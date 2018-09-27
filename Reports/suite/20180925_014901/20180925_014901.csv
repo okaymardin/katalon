@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+suite,Firefox 62.0,,2018-09-25 01:49:05,2018-09-25 01:49:19,"13,649s",FAILED
+,,,,,,
+Test Cases/test1,Firefox 62.0,,2018-09-25 01:49:06,2018-09-25 01:49:18,"12,884s",FAILED
+openBrowser,Firefox 62.0,,2018-09-25 01:49:06,2018-09-25 01:49:10,"4,112s",PASSED
+navigateToUrl,Firefox 62.0,,2018-09-25 01:49:10,2018-09-25 01:49:14,"3,756s",PASSED
+setText,Firefox 62.0,,2018-09-25 01:49:14,2018-09-25 01:49:14,"0,226s",PASSED
+setText,Firefox 62.0,,2018-09-25 01:49:14,2018-09-25 01:49:14,"0,114s",PASSED
+click,Firefox 62.0,,2018-09-25 01:49:14,2018-09-25 01:49:15,"0,293s",PASSED
+waitForJQueryLoad,Firefox 62.0,,2018-09-25 01:49:15,2018-09-25 01:49:15,"0,094s",PASSED
+click,Firefox 62.0,,2018-09-25 01:49:15,2018-09-25 01:49:18,"3,235s",PASSED
+click,Firefox 62.0,,2018-09-25 01:49:18,2018-09-25 01:49:18,"0,415s",PASSED
+click,Firefox 62.0,,2018-09-25 01:49:18,2018-09-25 01:49:18,"0,205s",FAILED

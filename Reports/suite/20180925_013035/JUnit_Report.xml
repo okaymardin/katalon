@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="suite" time="21" tests="1" failures="0" errors="0">
+   <testsuite name="suite" tests="1" failures="0" errors="0" time="21" timestamp="2018-09-25 01:30:37" hostname="OkayMardin - NBOKAYMRDN.fit.corp" id="">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Okay\\Desktop\\vbnm\\Reports\\suite\\20180925_013035"/>
+         <property name="logFiles" value="C:\\Users\\Okay\\Desktop\\vbnm\\Reports\\suite\\20180925_013035\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="OkayMardin - NBOKAYMRDN.fit.corp"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.7.1.1"/>
+         <property name="browser" value="Firefox 62.0"/>
+         <property name="hostAddress" value="192.168.0.27"/>
+         <property name="sessionId" value="142e4721-3287-4031-96fe-6318ce40adbd"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=USE_SYSTEM, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/test1" classname="Test Cases/test1" status="PASSED">
+         <system-out><![CDATA[2018-09-25 01:30:38 - [TEST_CASE][PASSED] - Test Cases/test1: Test Cases/test1
+
+2018-09-25 01:30:38 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-09-25 01:30:44 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-25 01:30:44 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://cloudtest.fitbulut.com/#/kullanici/giris' successfully
+
+2018-09-25 01:30:47 - [MESSAGE][PASSED] - Navigate to 'https://cloudtest.fitbulut.com/#/kullanici/giris' successfully
+
+2018-09-25 01:30:47 - [TEST_STEP][PASSED] - setText: Text 'okay.mardin@fitcons.com' is set on object 'Object Repository/Page_Foriba Bulut Portal/input_e-Posta_inputEmail3'
+
+2018-09-25 01:30:47 - [MESSAGE][PASSED] - Text 'okay.mardin@fitcons.com' is set on object 'Object Repository/Page_Foriba Bulut Portal/input_e-Posta_inputEmail3'
+
+2018-09-25 01:30:47 - [TEST_STEP][PASSED] - setText: Text 'uAB4vLZ:' is set on object 'Object Repository/Page_Foriba Bulut Portal/input_ifre_txtPassword'
+
+2018-09-25 01:30:47 - [MESSAGE][PASSED] - Text 'uAB4vLZ:' is set on object 'Object Repository/Page_Foriba Bulut Portal/input_ifre_txtPassword'
+
+2018-09-25 01:30:47 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Foriba Bulut Portal/div_Giri' is clicked on
+
+2018-09-25 01:30:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Foriba Bulut Portal/div_Giri' is clicked on
+
+2018-09-25 01:30:48 - [TEST_STEP][PASSED] - waitForJQueryLoad: jQuery is ready.
+
+2018-09-25 01:30:48 - [MESSAGE][PASSED] - jQuery is ready.
+
+2018-09-25 01:30:48 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/content' is clicked on
+
+2018-09-25 01:30:52 - [MESSAGE][PASSED] - Object: 'Object Repository/content' is clicked on
+
+2018-09-25 01:30:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Foriba Bulut Portal/i_Dosya Ykleme_al-sidebar-list' is clicked on
+
+2018-09-25 01:30:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Foriba Bulut Portal/i_Dosya Ykleme_al-sidebar-list' is clicked on
+
+2018-09-25 01:30:52 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Foriba Bulut Portal/span_Gelen Fatura' is clicked on
+
+2018-09-25 01:30:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Foriba Bulut Portal/span_Gelen Fatura' is clicked on
+
+2018-09-25 01:30:53 - [TEST_STEP][PASSED] - waitForJQueryLoad: jQuery is ready.
+
+2018-09-25 01:30:53 - [MESSAGE][PASSED] - jQuery is ready.
+
+2018-09-25 01:30:53 - [TEST_STEP][PASSED] - Statement - If (!(com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/Page_Foriba Bulut Portal/span_1 Ay)))): Object 'Object Repository/Page_Foriba Bulut Portal/span_1 Ay' is clickable
+
+2018-09-25 01:30:54 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Foriba Bulut Portal/span_1 Ay' is clickable
+
+2018-09-25 01:30:54 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Foriba Bulut Portal/span_1 Ay' is clicked on
+
+2018-09-25 01:30:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Foriba Bulut Portal/span_1 Ay' is clicked on
+
+2018-09-25 01:30:55 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Foriba Bulut Portal/span_IN02018000000197' is clicked on
+
+2018-09-25 01:30:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Foriba Bulut Portal/span_IN02018000000197' is clicked on
+
+2018-09-25 01:30:55 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Foriba Bulut Portal/button_Detay' is clicked on
+
+2018-09-25 01:30:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Foriba Bulut Portal/button_Detay' is clicked on
+
+2018-09-25 01:30:56 - [TEST_STEP][PASSED] - verifyElementText: Actual text and expected text of test object 'Object Repository/Page_Foriba Bulut Portal/div_urnmaildefaultpkfitcons.co' are matched.
+
+2018-09-25 01:30:56 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Foriba Bulut Portal/div_urnmaildefaultpkfitcons.co' are matched.
+
+2018-09-25 01:30:56 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-09-25 01:30:56 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-09-25 01:30:37 - [TEST_SUITE][PASSED] - suite: Test Cases/test1]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

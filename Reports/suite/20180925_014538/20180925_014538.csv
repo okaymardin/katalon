@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+suite,Edge 16,,2018-09-25 01:45:44,2018-09-25 01:46:12,"27,999s",FAILED
+,,,,,,
+Test Cases/test1,Edge 16,,2018-09-25 01:45:46,2018-09-25 01:46:08,"22,545s",FAILED
+openBrowser,Edge 16,,2018-09-25 01:45:46,2018-09-25 01:45:51,"4,622s",PASSED
+navigateToUrl,Edge 16,,2018-09-25 01:45:51,2018-09-25 01:45:56,"4,662s",PASSED
+setText,Edge 16,,2018-09-25 01:45:56,2018-09-25 01:45:56,"0,493s",PASSED
+setText,Edge 16,,2018-09-25 01:45:56,2018-09-25 01:45:56,"0,273s",PASSED
+click,Edge 16,,2018-09-25 01:45:56,2018-09-25 01:45:57,"0,184s",PASSED
+waitForJQueryLoad,Edge 16,,2018-09-25 01:45:57,2018-09-25 01:45:57,"0,141s",PASSED
+click,Edge 16,,2018-09-25 01:45:57,2018-09-25 01:46:04,"7,178s",PASSED
+click,Edge 16,,2018-09-25 01:46:04,2018-09-25 01:46:04,"0,624s",PASSED
+click,Edge 16,,2018-09-25 01:46:04,2018-09-25 01:46:05,"0,363s",PASSED
+waitForJQueryLoad,Edge 16,,2018-09-25 01:46:05,2018-09-25 01:46:05,"0,321s",PASSED
+Statement - If (!(com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/Page_Foriba Bulut Portal/span_1 Ay)))),Edge 16,,2018-09-25 01:46:05,2018-09-25 01:46:07,"1,421s",PASSED
+click,Edge 16,,2018-09-25 01:46:07,2018-09-25 01:46:07,"0,098s",PASSED
+click,Edge 16,,2018-09-25 01:46:07,2018-09-25 01:46:08,"1,396s",FAILED

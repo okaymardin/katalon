@@ -1,0 +1,64 @@
+1
+00:00:00,616 --> 00:00:00,631
+1. openBrowser
+
+2
+00:00:06,688 --> 00:00:06,688
+5. navigateToUrl
+
+3
+00:00:09,315 --> 00:00:09,315
+9. setText
+
+4
+00:00:09,594 --> 00:00:09,594
+13. setText
+
+5
+00:00:09,704 --> 00:00:09,704
+17. click
+
+6
+00:00:10,106 --> 00:00:10,106
+21. waitForJQueryLoad
+
+7
+00:00:10,189 --> 00:00:10,189
+25. click
+
+8
+00:00:14,222 --> 00:00:14,223
+29. click
+
+9
+00:00:14,609 --> 00:00:14,610
+33. click
+
+10
+00:00:14,997 --> 00:00:14,998
+37. waitForJQueryLoad
+
+11
+00:00:15,019 --> 00:00:15,019
+41. Statement - If (!(com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/Page_Foriba Bulut Portal/span_1 Ay))))
+
+12
+00:00:16,234 --> 00:00:16,234
+45. click
+
+13
+00:00:16,921 --> 00:00:16,922
+49. click
+
+14
+00:00:17,370 --> 00:00:17,370
+53. click
+
+15
+00:00:17,772 --> 00:00:17,773
+57. verifyElementText
+
+16
+00:00:17,897 --> 00:00:17,897
+61. closeBrowser
+

@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+suite,Firefox 62.0,,2018-09-25 01:50:51,2018-09-25 01:51:13,"21,653s",FAILED
+,,,,,,
+Test Cases/test1,Firefox 62.0,,2018-09-25 01:50:52,2018-09-25 01:51:12,"20,592s",FAILED
+openBrowser,Firefox 62.0,,2018-09-25 01:50:52,2018-09-25 01:50:59,"6,878s",PASSED
+navigateToUrl,Firefox 62.0,,2018-09-25 01:50:59,2018-09-25 01:51:03,"4,068s",PASSED
+setText,Firefox 62.0,,2018-09-25 01:51:03,2018-09-25 01:51:04,"0,229s",PASSED
+setText,Firefox 62.0,,2018-09-25 01:51:04,2018-09-25 01:51:04,"0,139s",PASSED
+click,Firefox 62.0,,2018-09-25 01:51:04,2018-09-25 01:51:04,"0,337s",PASSED
+waitForJQueryLoad,Firefox 62.0,,2018-09-25 01:51:04,2018-09-25 01:51:04,"0,097s",PASSED
+click,Firefox 62.0,,2018-09-25 01:51:04,2018-09-25 01:51:09,"4,681s",PASSED
+click,Firefox 62.0,,2018-09-25 01:51:09,2018-09-25 01:51:09,"0,438s",PASSED
+Statement - If (!(com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/Page_Foriba Bulut Portal/span_Gelen Fatura)))),Firefox 62.0,,2018-09-25 01:51:09,2018-09-25 01:51:09,"0,076s",PASSED
+click,Firefox 62.0,,2018-09-25 01:51:09,2018-09-25 01:51:10,"0,743s",PASSED
+waitForJQueryLoad,Firefox 62.0,,2018-09-25 01:51:10,2018-09-25 01:51:11,"0,379s",PASSED
+Statement - If (!(com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/Page_Foriba Bulut Portal/span_1 Ay)))),Firefox 62.0,,2018-09-25 01:51:11,2018-09-25 01:51:11,"0,098s",PASSED
+click,Firefox 62.0,,2018-09-25 01:51:11,2018-09-25 01:51:11,"0,809s",PASSED
+click,Firefox 62.0,,2018-09-25 01:51:11,2018-09-25 01:51:12,"0,833s",FAILED

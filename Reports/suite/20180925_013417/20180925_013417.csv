@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+suite,Chrome 69.0.3497.100,,2018-09-25 01:34:19,2018-09-25 01:35:14,"55,440s",FAILED
+,,,,,,
+Test Cases/test1,Chrome 69.0.3497.100,,2018-09-25 01:34:19,2018-09-25 01:35:13,"54,053s",FAILED
+openBrowser,Chrome 69.0.3497.100,,2018-09-25 01:34:20,2018-09-25 01:35:10,"50,395s",PASSED
+navigateToUrl,Chrome 69.0.3497.100,,2018-09-25 01:35:10,2018-09-25 01:35:13,"2,531s",PASSED
+setText,Chrome 69.0.3497.100,,2018-09-25 01:35:13,2018-09-25 01:35:13,"0,664s",FAILED

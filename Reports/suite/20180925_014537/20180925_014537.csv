@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+suite,Chrome 63.0.3239.132,,2018-09-25 01:45:43,2018-09-25 01:46:10,"27,245s",FAILED
+,,,,,,
+Test Cases/test1,Chrome 63.0.3239.132,,2018-09-25 01:45:44,2018-09-25 01:46:10,"25,668s",FAILED
+openBrowser,Chrome 63.0.3239.132,,2018-09-25 01:45:46,2018-09-25 01:45:51,"5,760s",PASSED
+navigateToUrl,Chrome 63.0.3239.132,,2018-09-25 01:45:51,2018-09-25 01:45:55,"4,094s",PASSED
+setText,Chrome 63.0.3239.132,,2018-09-25 01:45:55,2018-09-25 01:45:58,"2,496s",PASSED
+setText,Chrome 63.0.3239.132,,2018-09-25 01:45:58,2018-09-25 01:45:58,"0,388s",PASSED
+click,Chrome 63.0.3239.132,,2018-09-25 01:45:58,2018-09-25 01:45:59,"0,374s",PASSED
+waitForJQueryLoad,Chrome 63.0.3239.132,,2018-09-25 01:45:59,2018-09-25 01:45:59,"0,491s",PASSED
+click,Chrome 63.0.3239.132,,2018-09-25 01:45:59,2018-09-25 01:46:05,"5,709s",PASSED
+click,Chrome 63.0.3239.132,,2018-09-25 01:46:05,2018-09-25 01:46:07,"2,653s",PASSED
+click,Chrome 63.0.3239.132,,2018-09-25 01:46:07,2018-09-25 01:46:08,"1,010s",PASSED
+waitForJQueryLoad,Chrome 63.0.3239.132,,2018-09-25 01:46:08,2018-09-25 01:46:09,"0,284s",PASSED
+Statement - If (!(com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementClickable(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Object Repository/Page_Foriba Bulut Portal/span_1 Ay)))),Chrome 63.0.3239.132,,2018-09-25 01:46:09,2018-09-25 01:46:09,"0,439s",PASSED
+click,Chrome 63.0.3239.132,,2018-09-25 01:46:09,2018-09-25 01:46:10,"0,462s",FAILED
